@@ -1,0 +1,19 @@
+implementation workflow - PPT
+
+1. Make APM workflow: steps taken from  beginning to end during implementation, what happens passed handover - during SLA
+
+2. reviewing past handover phase - what could have been done better for support and what are we currently doing to improve agents
+
+3. What should be done during SLA to maintain agents - maybe cloning agents and testing diff algorithms, these might work differently as more data is recorded/operating states change/new anomalies detected
+
+don't try to solve all the customers problems at once, solve one problem at a time
+
+4. Any PDM solution
+
+
+EOA6, 7, 1, 2, 3
+
+SAP 500 ETF
+---------------------------------------------------------------------------------------
+
+•	Discuss their Severity, Occurrence, and Detection (SOD) scoring to understand what is considered a 'high' vs 'moderate' severity rating.
